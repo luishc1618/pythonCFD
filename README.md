@@ -1,2 +1,2 @@
 # pythonCFD
-Python codes for CFD appliactions
+Python projects for CFD applications
